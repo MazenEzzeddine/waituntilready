@@ -1,0 +1,10 @@
+# Default ignored files
+
+.idea
+
+untilready.iml
+
+dependency-reduced-pom.xml
+
+target
+
